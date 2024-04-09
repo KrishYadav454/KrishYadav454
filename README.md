@@ -9,7 +9,7 @@
 
 - 🌱 Currently I'm learning *Ml*
 
-- 👨‍💻 All of my projects are available at [https://github.com/krishyadav454/krishyadav454/](https://github.com/krishyadav454/krishyadav454/)
+- 👨‍💻 All of my projects are available at [https://github.com/krishyadav454/krishyadav454/](https://github.com/krishyadav454/)
 
 - 📫 How to reach me *[http://krishyadav.tech](https://www.krishyadav.tech/)*
 
