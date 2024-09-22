@@ -1,11 +1,11 @@
 <img src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/media/142a387e9ea9c079bc72e3a62fd3fc48.gif" alt="MasterHead" width="100%" height="500"
-style="border-radius: 5px; margin: 4rem 2rem; box-shadow: 0 0 10px #7d7dff;">
+style="border-radius: 5 px; margin: 4 rem 2 rem; box-shadow: 0 0 10 px #7d7dff;">
 
 <br>
 
 <h1 align="center"  >Hey 🙌, I'm Krish Yadav</h1>
 <h3 align="center" style="color: #4CAF50;">A Passionate FullStack Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a1/ba/2c/a1ba2c150d44d387f565a87c54351bf8.gif" style="border-radius: 20px; margin: 4rem 4rem; ">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a1/ba/2c/a1ba2c150d44d387f565a87c54351bf8.gif" style="border-radius: 20 px; margin: 4 rem 4 rem; ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishyadav454&label=Profile%20views&color=0e75b6&style=flat" alt="krishyadav454" /> </p>
 
