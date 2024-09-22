@@ -4,7 +4,7 @@ style="border-radius: 5 px; margin: 4 rem 2 rem; box-shadow: 0 0 10 px #7d7dff;"
 <br>
 
 <h1 align="center"  >Hey 🙌, I'm Krish Yadav</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/media/142a387e9ea9c079bc72e3a62fd3fc48.gif" style="border-radius: 20 px; margin: 4 rem 4 rem; ">
+<img align="right" alt="Coding" width="400" src="https://github.com/KrishYadav454/KrishYadav454/blob/main/458.png" style="border-radius: 20 px; margin: 4 rem 4 rem; ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishyadav454&label=Profile%20views&color=0e75b6&style=flat" alt="krishyadav454" /> </p>
 
