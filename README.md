@@ -1,4 +1,4 @@
-<img src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/media/142a387e9ea9c079bc72e3a62fd3fc48.gif" alt="MasterHead" width="100%" height="500"
+<img src="https://i.pinimg.com/originals/a1/ba/2c/a1ba2c150d44d387f565a87c54351bf8.gif" alt="MasterHead" width="100%" height="500"
 style="border-radius: 5 px; margin: 4 rem 2 rem; box-shadow: 0 0 10 px #7d7dff;">
 
 <br>
